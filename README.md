@@ -1,2 +1,2 @@
 # Demo
-Demo projects to find Mutual Friends between two Twitter Accounts
+Demo Spring Boot project to find Mutual Friends between two Twitter Accounts
